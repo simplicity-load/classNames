@@ -1,0 +1,16 @@
+{
+  "name": "classnames",
+  "version": "1.0.0",
+  "description": "Super simple classNames implementation.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "simplicity-load",
+  "license": "AGPL-3.0-only",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.0.0"
+  }
+}
